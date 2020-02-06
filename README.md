@@ -15,11 +15,14 @@
 
 ### 内核养成
 
+- 《深入理解计算机系统》
+- 《图解TCP/IP》
 - 《编程珠玑》
 - 《架构整洁之道》
 
 ### 能力养成
 
+- 《Linux/UNIX系统编程手册》
 - 《Go程序设计语言》
 - 《Kubernetes in Action》
 
@@ -69,3 +72,7 @@
 ### Flume
 
 - [Flume介绍（博客）](https://www.cnblogs.com/edisonchou/p/4445491.html)
+
+## 辅助技能
+
+- 《Getting Things Done》系列，GTD时间管理
