@@ -42,8 +42,22 @@
 
 ### Golang
 
-- [Gin | ISLAND（博客）](https://youngxhui.top/categories/gin/)
 - [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
+- [Gin | ISLAND](https://youngxhui.top/categories/gin/)
+
+### Node.js
+
+- [ECMAScript 6 入门教程](http://es6.ruanyifeng.com/)
+- [理解 JavaScript 的 async/await](https://segmentfault.com/a/1190000007535316)
+- [测试框架 Mocha 实例教程](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
+- [代码覆盖率工具 Istanbul 入门教程](http://www.ruanyifeng.com/blog/2015/06/istanbul.html)
+- [bluebird与原生Promise对象](https://itbilu.com/nodejs/npm/VJHw6ScNb.html#api-finally)
+- [Linux 守护进程的启动方法](http://www.ruanyifeng.com/blog/2016/02/linux-daemon.html)
+- [node-interview-questions](https://github.com/jimuyouyou/node-interview-questions)
+
+### Swift
+
+- [SwiftGG](https://swift.gg/)
 
 ## 数据结构与算法
 
