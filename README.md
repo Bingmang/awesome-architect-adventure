@@ -18,14 +18,18 @@
 ### 内核养成
 
 - 《深入理解计算机系统》
+- 《Linux/UNIX系统编程手册》
 - 《图解TCP/IP》
+- 《图解HTTP》
 - 《编程珠玑》
 - 《架构整洁之道》
 
 ### 能力养成
 
-- 《Linux/UNIX系统编程手册》
 - 《Go程序设计语言》
+- 《Fluent Python》
+- 《Redis设计与实现》
+- 《高性能MySQL》
 - 《Kubernetes in Action》
 
 ## 架构思想
@@ -46,6 +50,7 @@
 
 - [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
 - [Gin | ISLAND](https://youngxhui.top/categories/gin/)
+- [7天用Go动手写/从零实现系列](https://github.com/geektutu/7days-golang)
 
 ### Node.js
 
